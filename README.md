@@ -1,4 +1,4 @@
-# Concrete_strength_regression
+# Concrete strength regression
 
 This notebook contains a brief **Exploratory Data Analysis** of the ["Revisiting a Concrete Strength regression" Dataset](https://www.kaggle.com/maajdl/yeh-concret-data) and a selection of models trained to predict concrete mixture's compressive strength based on it's ingredients. 
 
